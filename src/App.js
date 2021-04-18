@@ -5,7 +5,7 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-      <h1>main</h1>
+      <h1>spotify clone</h1>
     </div>
   );
 }
