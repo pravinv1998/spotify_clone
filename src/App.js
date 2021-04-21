@@ -5,12 +5,7 @@ import Login from "./Login";
 function App() {
   return (
     <div className="app">
-      <div className="navbar"></div>
-      <div className="maindiv">
-        <div className="left"></div>
-        <div className="righ"></div>
-      </div>
-      {/* <Login /> */}
+      <Login />
     </div>
   );
 }
