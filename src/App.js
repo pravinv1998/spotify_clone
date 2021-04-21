@@ -1,10 +1,16 @@
 import React from "react";
 import "./App.css";
+import Login from "./Login";
 
 function App() {
   return (
-    <div className="bg-info">
-      <h1>spotify clone start working</h1>
+    <div className="app">
+      <div className="navbar"></div>
+      <div className="maindiv">
+        <div className="left"></div>
+        <div className="righ"></div>
+      </div>
+      {/* <Login /> */}
     </div>
   );
 }

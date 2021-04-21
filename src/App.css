@@ -8,3 +8,13 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+
+.navbar {
+  display: flex;
+  background-color: paleturquoise;
+  height: 60px;
+}
+
+.maindiv {
+  display: flex;
+}
